@@ -1,4 +1,4 @@
-# The Hacking Project - Database of a Moocs Website
+# The Hacking Project - Database of a Hacker News-like message board
 
 
 ## :mag: The content
@@ -8,7 +8,7 @@ In these exercises, I had to design a **database** for a **Hacker News-like mess
 
 **After cloning the repository, make sure to do :**
 ```sh
-$ cd thp_make-db-moocademy
+$ cd thp_make-db-news
 $ bundle install
 ```
 

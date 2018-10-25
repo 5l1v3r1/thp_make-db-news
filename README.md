@@ -2,7 +2,7 @@
 
 
 ## :mag: The content
-In these exercises, I had to design a **database** for a **Hacker News-like message board** where:
+In these exercises, I had to design a **database** for a **Hacker News-like message board** where :
 * Users can post links. 
 * Other users can comment on submitted links, or comment on comments.
 
